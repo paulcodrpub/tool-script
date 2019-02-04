@@ -7,7 +7,7 @@ In this README, each section includes the shell script file & a brief descriptio
 # count-subunits-per-unit.sh
 Parse a text file and count total of subunits in each unit.
 
-Please check count-subunits-per-unit.md for more details.
+Please check [count-subunits-per-unit.md](count-subunits-per-unit.md) for more details.
 
 Content of example text file
 ```
