@@ -17,7 +17,7 @@ unit10-session1
 unit11-session1
 ```
 
-Using the script with above source data will generate following output:
+Using the script with above source data will generate following output on Terminal screen:
 ```
 unit01    3
 unit02    2
@@ -25,6 +25,9 @@ unit02    2
 unit10    1
 unit11    1
 ```
+
+Note that if you have unit numbering like `unit001, unit101 and unit234`, this script can handle it. 
+
 
 # What is it?    
 Bash shell script to be executed in Terminal of Mac or Linux
@@ -50,6 +53,7 @@ Complete.
        source data.
    ex: If largest unit number is unit 115, unit001, not unit1, should be in 
        source data.
+5. Output is printed on Terminal only.
 
 # How to run it
 On local Mac
