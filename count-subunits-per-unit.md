@@ -1,7 +1,8 @@
-#!/bin/bash
 # Created: 2019.02.02
 
-# README #
+# File
+count-subunits-per-unit.sh
+
 # What does it do? 
 Parse a text file and count total of subunits in each unit.
 ```
