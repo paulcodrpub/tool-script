@@ -53,7 +53,7 @@ Complete.
        source data.
    ex: If largest unit number is unit 115, unit001, not unit1, should be in 
        source data.
-5. Output is printed on Terminal only.
+5. Output is printed in Terminal only.
 
 # How to run it
 On local Mac
