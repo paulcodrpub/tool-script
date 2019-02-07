@@ -38,6 +38,8 @@ mkdir /root/bin/    # or use a folder of your choice
 cd /root/bin
 
 wget https://raw.githubusercontent.com/paulcodrpub/tool-script/master/yumupdate.sh
+OR
+curl -O https://raw.githubusercontent.com/paulcodrpub/tool-script/master/yumupdate.sh
 
 chmod 700 yumupdate.sh
 
