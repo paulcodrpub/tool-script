@@ -29,3 +29,8 @@ unit02    2
 unit10    1
 unit11    1
 ```
+
+# yumupdate.sh
+# What does it do?  
+On CentOS 6 and 7, you can run this script and it will 1) "yum -y update" and 2) reboot OS, only when kernel is updated. This script will create folder  /root/logsyum to store log files. 
+
