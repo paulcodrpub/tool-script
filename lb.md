@@ -22,9 +22,9 @@ Complete.
 If a file such as 2019-02-10.md exists already and you run `lb.sh` on 2019-02-10, the initial date (# 2019-02-10 01hr Sunday) will not inserted into the top of the file.
 
 # Specific things to look for      
-When lb.sh is executed the twice or more between say 11:00 and 11:59, it will insert hour marker only once. I chose this option to avoid unnecessary timestamps.
-On a Mac, the script will save the files in ~/Documents/logbook/. On Linux, it will save the files in ~/logbook/.
-The script should be kept in  `~/bin/lb.sh`. That way, you can run `lb.sh` from any directory simply by typing `lb.sh`
+- When lb.sh is executed twice or more between say 11:00 and 11:59, it will insert hour marker only once (ex: # 2019-02-10 02hr). I chose this option to avoid unnecessary timestamps.
+- On a Mac, the script will save the files in ~/Documents/logbook/. On Linux, it will save the files in ~/logbook/.
+- The script should be kept in  `~/bin/lb.sh`. That way, you can run `lb.sh` from any directory simply by typing `lb.sh`
 
 
 # How to run it
