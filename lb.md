@@ -43,6 +43,7 @@ chmod 750 lb.sh
 
 # Run script
 Edit `lb.sh` and update the value of variable  `_timezone`  to your choice.
+
 ex: _timezone="America/Los_Angeles"  or _timezone="America/New_York"
 
 Open Terminal. From any directory you can run following:
