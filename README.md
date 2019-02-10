@@ -30,7 +30,6 @@ unit10    1
 unit11    1
 ```
 
-
 # lb.sh
 When executed on a Mac or Linux computer, it creates a .md file in ~/Documents/logbook/yyyy-mm-dd.md, and vim editor opens the .md file. If the folder is not there, it will be created.
 This script was tested on CentOS and Mac.
