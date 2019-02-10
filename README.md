@@ -30,6 +30,13 @@ unit10    1
 unit11    1
 ```
 
+
+# lb.sh
+When executed on a Mac or Linux computer, it creates a .md file in ~/Documents/logbook/yyyy-mm-dd.md, and vim editor opens the .md file. If the folder is not there, it will be created.
+This script was tested on CentOS and Mac.
+
+Please check [lb.md](lb.md) for more details.
+
 # yumupdate.sh
 On CentOS 6 and 7, you can run script yumupdate.sh and it will 1) "yum -y update" and 2) reboot OS, only when kernel is updated. This script will create folder  /root/logsyum to store log files. 
 
