@@ -52,4 +52,4 @@ lb.sh
 ```
 
 # Live Demo
-None available
+[![asciicast](https://asciinema.org/a/rB2WdgHR2rbFataLM9pfTSjoi.svg)](https://asciinema.org/a/rB2WdgHR2rbFataLM9pfTSjoi)
