@@ -52,4 +52,6 @@ lb.sh
 ```
 
 # Live Demo
+Asciinema replay available below. Top pane shows `lb.sh` being executed a few times. Bottom pane shows folder `~/Documents/logbook/` was created by `lb.sh`.
+
 [![asciicast](https://asciinema.org/a/rB2WdgHR2rbFataLM9pfTSjoi.svg)](https://asciinema.org/a/rB2WdgHR2rbFataLM9pfTSjoi)
